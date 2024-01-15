@@ -1,5 +1,5 @@
 #################################################################################
-#  *********************  Remote_Server_Control_App.py  *********************** #
+# **********************  Remote_Server_Control_App.py  *********************** #
 #                                                                               #
 #   This module is installed on the Remote Administrator's computer.            #
 #   It is the main program for the remote server control application.           #
